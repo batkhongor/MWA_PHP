@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "62b8adc421d4e6f02c025c4b"
+  },
+  "name": "Imperial",
+  "country": "USA"
+},{
+  "_id": {
+    "$oid": "62b8d8b64708968f5188b5ba"
+  },
+  "name": "Burger King",
+  "country": "USA",
+  "locations": [
+    {
+      "city": "Fairfield",
+      "country": "USA",
+      "zipcode": 52556,
+      "_id": {
+        "$oid": "62b8e83529270a8bf81e9835"
+      }
+    },
+    {
+      "city": "Iowa City",
+      "country": "USA",
+      "zipcode": 52240,
+      "_id": {
+        "$oid": "62b8e83529270a8bf81e9836"
+      }
+    }
+  ],
+  "__v": 0,
+  "yearEstablished": 1953
+},{
+  "_id": {
+    "$oid": "62b8da46d31ebd7457fac449"
+  },
+  "name": "Burger King",
+  "country": "USA",
+  "locations": [
+    {
+      "city": "Fairfield",
+      "country": "USA",
+      "zipcode": 52556,
+      "_id": {
+        "$oid": "62b8f02fc145be1dce006f03"
+      }
+    },
+    {
+      "city": "Iowa City4",
+      "country": "USA",
+      "zipcode": 52240,
+      "_id": {
+        "$oid": "62b8f02fc145be1dce006f04"
+      }
+    },
+    {
+      "city": "Iowa City New",
+      "country": "USA",
+      "zipcode": 52240,
+      "_id": {
+        "$oid": "62b904aa6c993578b6f44154"
+      }
+    }
+  ],
+  "__v": 5,
+  "yearEstablished": 1955
+},{
+  "_id": {
+    "$oid": "62b902626e6a0e5ac5605bef"
+  },
+  "name": "Mac Donalds",
+  "country": "USA",
+  "locations": [
+    {
+      "city": "Mt Pleasant",
+      "country": "USA",
+      "zipcode": 52641,
+      "_id": {
+        "$oid": "62b902626e6a0e5ac5605bf0"
+      }
+    },
+    {
+      "city": "Fairfield",
+      "country": "USA",
+      "zipcode": 52556,
+      "_id": {
+        "$oid": "62b902626e6a0e5ac5605bf1"
+      }
+    }
+  ],
+  "__v": 0
+}]
